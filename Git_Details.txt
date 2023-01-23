@@ -1,1 +1,14 @@
 Git (version control)
+
+What is a Git -> Git is a version control tool. It is used to track the savepoints or say changes made by you or any other contributer into your code/s.
+
+What is GitHub -> Github is a GUI and it is a remote location consisting of git repositories.Hence it can used to store any development project.
+It can contain folders and any type of files (HTML, CSS, JavaScript, Documents, Data, Images).
+It also contain README.md file which is used to describe the project.
+
+A git folder is a normal folder which is being initialized with command .git init
+
+Various command's associated with git:-
+1. git status -> git status show's branch name on which your are at (current branch name). It shows messages whether any file is to be commited (Repository state) or any existing file is being modified.
+2. git diff -> git diff command show's updated/newly added line of text/code into any file. If there is no new code/text , it will show nothing.
+3. git log -> git log is a command that display's all commited message/s along with their commit-id/sha-id , date , day on which the file was committed.
