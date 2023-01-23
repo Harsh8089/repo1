@@ -8,7 +8,14 @@ It also contain README.md file which is used to describe the project.
 
 A git folder is a normal folder which is being initialized with command .git init
 
-Various command's associated with git:-
+Various command's associated with git (command prompt):-
 1. git status -> git status show's branch name on which your are at (current branch name). It shows messages whether any file is to be commited (Repository state) or any existing file is being modified.
 2. git diff -> git diff command show's updated/newly added line of text/code into any file. If there is no new code/text , it will show nothing.
+
+/*All commitment are stored in stack*/
+
 3. git log -> git log is a command that display's all commited message/s along with their commit-id/sha-id , date , day on which the file was committed.
+4. git log --oneline -> git log display commit-id with it's messages.
+5. git log -p -> commit-message's + diff
+6. git log -n -> latest nth commit (n = 1 -> latest first commit , n = 2 -> latest first and second commit)
+7. git show commit-id -> Show's commit message on giving commit-id int the command.
