@@ -6,7 +6,7 @@ What is GitHub -> Github is a GUI and it is a remote location consisting of git 
 It can contain folders and any type of files (HTML, CSS, JavaScript, Documents, Data, Images).
 It also contain README.md file which is used to describe the project.
 
-A git folder is a normal folder which is being initialized with command .git init
+A git folder is a normal folder which is being initialized with command git init
 
 Various command's associated with git (command prompt):-
 1. git status -> git status show's branch name on which your are at (current branch name). It shows messages whether any file is to be commited (Repository state) or any existing file is being modified.
